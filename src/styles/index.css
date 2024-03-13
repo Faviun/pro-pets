@@ -25,3 +25,10 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+.reg-image {
+  background-image: url("../../public/registration-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

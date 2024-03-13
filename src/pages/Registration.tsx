@@ -7,7 +7,7 @@ const Registration = () => {
     return (
         <div className="flex flex-col h-screen">
             <HeaderSecondary/>
-            <main className="bg-image h-full">
+            <main className="bg-white h-full">
                 <FormRegistration/>
             </main>
             <Footer/>
